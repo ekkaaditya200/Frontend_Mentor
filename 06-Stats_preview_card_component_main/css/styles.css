@@ -33,7 +33,8 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content:center;
+    gap:2rem;
 }
 .container{
     width: 90%;
@@ -103,7 +104,6 @@ body{
     font-size: 0.6875rem;
     text-align: center;
     color: var(--White);
-    margin-top: 3em;
 }
 .attribution a{
     color: var(--Soft-violet);
